@@ -30,13 +30,13 @@ This project uncovers **hidden investment opportunities** by detecting locations
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard1.png" width="900">
+  <img src="tableau/assets/dashboard1.png" width="900">
 </p>
 <p align="center">
-  <img src="assets/dashboard2.png" width="900">
+  <img src="tableau/assets/dashboard2.png" width="900">
 </p>
 <p align="center">
-  <img src="assets/dashboard3.png" width="900">
+  <img src="tableau/assets/dashboard3.png" width="900">
 </p>
 
 ---
@@ -172,8 +172,8 @@ Used to segment properties into distinct **micro-markets** based on features lik
 
 ### 🔗 Useful Links
 - [GitHub Repository](https://github.com/viveeeeek13/SectionE_G-5_Egypt-RealEstateAnalyzer)
-- [Tableau Public Dashboard](https://public.tableau.com/app/profile/rahul.dwivedi6526/viz/DVACapstoneDashboard/Dashboard1?publish=yes)
+- [Tableau Public Dashboard](https://public.tableau.com/app/profile/rahul.dwivedi6526/viz/DVACapstoneDashboard/Welcome)
 
 ---
 
-**Happy Analyzing! 📊**
+**Happy Analyzing! 📊**git add .
